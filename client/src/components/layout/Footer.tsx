@@ -113,17 +113,13 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
-                <Link href="/tanushka-faguna">
-                  <a className="text-gray-400 hover:text-white transition-colors">
-                    Tanushka Faguna
-                  </a>
+                <Link href="/tanushka-faguna" className="text-gray-400 hover:text-white transition-colors">
+                  Tanushka Faguna
                 </Link>
               </li>
               <li>
-                <Link href="/ravi-sahu">
-                  <a className="text-gray-400 hover:text-white transition-colors">
-                    Ravi Sahu
-                  </a>
+                <Link href="/ravi-sahu" className="text-gray-400 hover:text-white transition-colors">
+                  Ravi Sahu
                 </Link>
               </li>
             </ul>

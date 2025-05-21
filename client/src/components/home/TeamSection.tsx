@@ -99,10 +99,8 @@ export default function TeamSection() {
                     </a>
                   </div>
 
-                  <Link href={member.profileUrl}>
-                    <a className={`${member.linkColor} font-medium flex items-center`}>
-                      View Profile <ArrowRight className="ml-2 h-4 w-4" />
-                    </a>
+                  <Link href={member.profileUrl} className={`${member.linkColor} font-medium flex items-center`}>
+                    View Profile <ArrowRight className="ml-2 h-4 w-4" />
                   </Link>
                 </div>
               </div>
