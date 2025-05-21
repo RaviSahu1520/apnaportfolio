@@ -48,10 +48,8 @@ export default function Navbar() {
     >
       <nav className="container mx-auto px-4 py-3">
         <div className="flex justify-between items-center">
-          <Link href="/">
-            <a className="text-xl font-bold text-primary dark:text-white">
-              Tech<span className="text-orange-500">Portfolio</span>
-            </a>
+          <Link href="/" className="text-xl font-bold text-primary dark:text-white">
+            Tech<span className="text-orange-500">Portfolio</span>
           </Link>
 
           {/* Desktop Menu */}

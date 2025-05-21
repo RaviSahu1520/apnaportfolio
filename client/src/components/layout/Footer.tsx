@@ -108,10 +108,8 @@ export default function Footer() {
             <h3 className="text-lg font-semibold mb-4">Team Members</h3>
             <ul className="space-y-2">
               <li>
-                <Link href="/boby-sharma">
-                  <a className="text-gray-400 hover:text-white transition-colors">
-                    Boby Sharma
-                  </a>
+                <Link href="/boby-sharma" className="text-gray-400 hover:text-white transition-colors">
+                  Boby Sharma
                 </Link>
               </li>
               <li>

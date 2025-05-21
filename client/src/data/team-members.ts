@@ -131,7 +131,7 @@ export const teamMembers: TeamMember[] = [
       { name: "OOP Concepts", percentage: 85 },
       { name: "GitHub", percentage: 80 }
     ],
-    image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=600",
+    image: "/images/team/boby-sharma.jpg",
     gradientBg: "bg-gradient-to-r from-blue-500 to-indigo-600",
     socialLinks: {
       linkedin: "#",
@@ -220,7 +220,7 @@ export const teamMembers: TeamMember[] = [
       { name: "Version Control", percentage: 80 },
       { name: "Web Performance", percentage: 70 }
     ],
-    image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=600",
+    image: "/images/team/tanushka-faguna.jpg",
     gradientBg: "bg-gradient-to-r from-purple-500 to-pink-600",
     socialLinks: {
       linkedin: "#",
@@ -313,7 +313,7 @@ export const teamMembers: TeamMember[] = [
       { name: "scikit-learn", percentage: 80 },
       { name: "Matplotlib & Seaborn", percentage: 85 }
     ],
-    image: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=600",
+    image: "/images/team/ravi-sahu.jpg",
     gradientBg: "bg-gradient-to-r from-green-500 to-teal-600",
     socialLinks: {
       linkedin: "#",
